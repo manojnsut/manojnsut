@@ -1,7 +1,7 @@
 ### Hi, I'm Manoj Kumar 👋
 
 
-- 🎓 I'm an IT engineering sophomore at **NSUT, Delhi**.
+- 🎓 I'm an IT undergraduate student at **NSUT, Delhi**.
 - 🔭 **I’m currently working** on Job Search Application.
 - 🌱 I’m **currently learning** SaaS and JavaScript.
 - 👯 I’m **looking to collaborate** on video calling web project.
