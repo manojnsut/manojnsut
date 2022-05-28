@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **React Native, Android App Development**
 
-- 💬 Ask me about **react, cosmology**
+- 💬 Ask me about **react native, cosmology**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manojnsut/)**
 
