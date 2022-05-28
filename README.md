@@ -8,6 +8,7 @@
 - ⚡ **Fun fact**: I can read a novel of 300 pages in a day or two.
 - 😄 **Pronouns**: He/His
 
-<img src="https://github-readme-stats.vercel.app/api?username=manojnsut&&show_icons=true&title_color=000000&icon_color=1F4287f&text_color=334257&bg_color=fff" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=manojnsut&&show_icons=false&count_private=true" />
 
 
