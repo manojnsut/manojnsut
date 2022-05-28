@@ -15,21 +15,21 @@
  -->
  
  <h1 >Hi 👋, I'm Manoj Kumar</h1>
-<h3 >I'm an IT undergraduate student at NSUT, Delhi</h3>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojnsut&label=Profile%20views&color=0e75b6&style=flat" alt="manojnsut" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/jonam_lehgab" target="blank"><img src="https://img.shields.io/twitter/follow/jonam_lehgab?logo=twitter&style=for-the-badge" alt="jonam_lehgab" /></a> </p> -->
-
+- 🎓 I'm an IT undergraduate student at **NSUT, Delhi**.
 - 🔭 I’m currently working on [EasyBy](https://github.com/rohit672/EasyBuy)
 
 - 🌱 I’m currently learning **React Native, Android App Development**
 
-- 💬 Ask me about **react native, cosmology**
+- 💬 Ask me about **React Native, Cosmology**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manojnsut/)**
 
-- ⚡ Fun fact **I can read a novel of 200-300 pages in a day 😅**
+- ⚡ Fun fact **I can read a novel of 200-300 pages in a day or two 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
