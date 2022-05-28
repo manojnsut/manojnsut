@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **React Native, Cosmology**
 
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manojnsut/)**
+- 📫 How to reach me: **manojnsut23@gmail.com**
 
 - ⚡ Fun fact **I can read a novel of 200-300 pages in a day or two 😅**
 
