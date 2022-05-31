@@ -14,7 +14,7 @@
 </p>
  -->
  
- <h1 >Hi 👋, I'm Manoj Kumar</h1>
+ <h1>Hi 👋, I'm Manoj Kumar</h1>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojnsut&label=Profile%20views&color=0e75b6&style=flat" alt="manojnsut" /> </p> -->
@@ -43,7 +43,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojnsut&show_icons=true&locale=en" alt="manojnsut" /></p> -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojnsut&&show_icons=false&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojnsut&&show_icons=truee&count_private=true&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojnsut" width="300" height="200"/>
 </p>
 
