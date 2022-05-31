@@ -9,7 +9,7 @@
 - 😄 **Pronouns**: He/His
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojnsut&&show_icons=false&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojnsut&&show_icons=false&count_private=false&include_all_commits=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojnsut" width="300" height="200"/>
 </p>
  -->
