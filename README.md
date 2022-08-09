@@ -23,7 +23,7 @@
 - 🎓 I'm an IT undergraduate student at **NSUT, Delhi**.
 - 🔭 I’m currently working on **[EasyBuy](https://github.com/rohit672/EasyBuy)**
 
-- 🌱 I’m learning **React Native, Android App Development**
+- 🌱 I’m learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **React Native, Cosmology**
 
