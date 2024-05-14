@@ -19,12 +19,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojnsut&label=Profile%20views&color=0e75b6&style=flat" alt="manojnsut" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/jonam_lehgab" target="blank"><img src="https://img.shields.io/twitter/follow/jonam_lehgab?logo=twitter&style=for-the-badge" alt="jonam_lehgab" /></a> </p> -->
-- 🎓 I'm an IT undergraduate student at **NSUT, Delhi**.
-- 🔭 I’m currently working on **[EasyBuy](https://github.com/rohit672/EasyBuy)**
-
+- 🎓 I'm a Software Engineer at Paytm, India**.
+  
+- 🔭 I’m currently working on **Apache Superset**
+  
 - 🌱 I’m learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **React Native, Cosmology**
+- 💬 Ask me about **ReactJs and Photography **
 
 - 📫 How to reach me: **manojnsut23@gmail.com**
 
