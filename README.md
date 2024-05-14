@@ -25,7 +25,7 @@
   
 - 🌱 I’m learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **ReactJs and Photography **
+- 💬 Ask me about **ReactJs and Photography**
 
 - 📫 How to reach me: **manojnsut23@gmail.com**
 
