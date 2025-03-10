@@ -25,8 +25,6 @@
   
 - 🌱 I’m learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **ReactJs and Photography**
-
 - 📫 How to reach me: **manojnsut23@gmail.com**
 
 - ⚡ Fun fact **I can read a novel of 200-300 pages in a day or two 😅**
